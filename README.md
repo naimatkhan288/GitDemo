@@ -1,1 +1,1 @@
-Devops Project
+Git Course
